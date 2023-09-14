@@ -37,27 +37,22 @@ a si tienes el --global pero esto abarcaria a tu computadora pero si no es tu co
 ---
 ### ¿Cómo creas un repositorio en GitHub?
 Para hacer un repositorio en github debes
-``` 
-tener una cuenta de github
-``` 
-``` 
-al iniciar sesion aparecera en la parte de arriba a la derecha el simbolo de +
-``` 
-``` 
- al presionar ponlo en new repository 
-``` 
-``` 
- debes poner un nombre a tu repositorio sin espacios 
-``` 
-``` 
- y tu eliges si tu repositorio sera publico o privado 
-``` 
-``` 
- si quieres puedes poner un git ignore hacia algunso archivos que usan algunos motores de codigo o de juegos 
-``` 
-``` 
- y al final le pones create repository
- ``` 
+
+ 1. tener una cuenta de github
+1. al iniciar sesion aparecera en la parte de arriba a la derecha el simbolo de +
+ 
+
+ 1. al presionar ponlo en new repository 
+
+ 1. debes poner un nombre a tu repositorio sin espacios 
+
+1. y tu eliges si tu repositorio sera publico o privado 
+
+
+1. si quieres puedes poner un git ignore hacia algunso archivos que usan algunos motores de codigo o de juegos 
+
+1. y al final le pones create repository
+ 
 
 ---
 ### ¿Cómo vinculas un repositorio local de Git con uno remoto en GitHub? 
