@@ -8,7 +8,6 @@
 
 ``` 
 git --version 
-
 ```
 ``` 
 git config --global user.name "Nombre del usario" 
